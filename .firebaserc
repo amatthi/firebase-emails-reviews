@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "production": "snippets-email",
+    "email": "eatapp-5215b",
+    "feedback-email": "eatapp-5215b",
+    "review": "eatapp-5215b"
+  }
+}
